@@ -4,5 +4,5 @@
 
 
 
-Made with ♥ by milas :wave: [Get in touch](https://github.com/killersparrow0/mylinktree)
+<h3 align="center">Made with ♥ by milas :wave: [Get in touch](https://instagram.com/itz__milas)</h3>
 
