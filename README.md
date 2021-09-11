@@ -4,5 +4,5 @@
 
 
 
-<h3 align="center">Made with ♥ by milas :wave: [Get in touch](https://instagram.com/itz__milas) </h3>
+<h3 align="center">Made with ♥ by milas :wave: [Get in touch](https://instagram.com/itz__milas)
 
