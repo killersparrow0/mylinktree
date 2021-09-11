@@ -15,7 +15,7 @@ body {
     font-family: var(--font);
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
     opacity: 0;
-    animation:5s cubic-bezier var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
+    animation: 1s ease-out var(--delay) 1 transitionAnimation;/* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
 }
 
